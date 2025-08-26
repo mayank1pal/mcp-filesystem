@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+*.map
+lcov.info
+.env*
+.DS_Store
+*.log
+*.tsbuildinfo
+debug-*.js
+.vscode/
+.idea/

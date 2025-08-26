@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "node",
+      "args": ["/Users/mayankpal/Documents/mcp-filesystem-perplexity/dist/index.js"],
+      "env": {
+        "MCP_FS_ALLOWED_DIRS": "~/Documents,~/Downloads,~/Desktop",
+        "MCP_FS_SECURITY_LEVEL": "moderate",
+        "MCP_FS_ENABLE_ENHANCED_TOOLS": "true"
+      }
+    }
+  }
+}

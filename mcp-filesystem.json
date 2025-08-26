@@ -1,0 +1,12 @@
+{
+  "allowedDirectories": [
+    "~/Documents",
+    "~/Downloads",
+    "~/Desktop"
+  ],
+  "securityLevel": "moderate",
+  "maxFileSize": "10MB",
+  "enableEnhancedTools": true,
+  "allowedExtensions": ["*"],
+  "blockedExtensions": [".exe", ".bat"]
+}
